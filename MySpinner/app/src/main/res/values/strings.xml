@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Spinner</string>
+
+    <string-array name="numbers">
+        <item>
+            IceCream
+        </item>
+        <item>
+           Workplace
+        </item>
+        <item>
+            Office
+        </item>
+        <item>
+           Customer
+        </item>
+        <item>
+            Others
+        </item>
+    </string-array>
+</resources>
